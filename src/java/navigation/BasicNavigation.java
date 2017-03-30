@@ -5,8 +5,6 @@ public class BasicNavigation {
 //	Alt + 1
 //	    Esc
 	
-//	Ctrl + Alt + Shift + N
-	
 //	Shift + Esc
 	
 //	Ctrl + G

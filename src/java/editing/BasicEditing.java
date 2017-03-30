@@ -1,10 +1,7 @@
 package editing;
 
-import com.sun.org.apache.xpath.internal.functions.FuncBoolean;
 import util.Person;
 
-import java.security.AlgorithmConstraints;
-import java.security.CryptoPrimitive;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -13,14 +10,18 @@ public class BasicEditing {
 	public static void main(String[] args) {
 		
 		//		Ctrl + Space
-		Person person = new Person("Milos");
+//		Person person = new Person();
 		//		Ctrl + Shift + Space
 		List<String> stringList = new ArrayList<>();
 		
 //		Ctrl + Shift + Enter
-//		stringList.isEmpty
-//		if(st)
+//		if stringList.isEmpty
+		
 //		Ctrl + P
+		
+//		Ctrl + Alt + P
+		
+//		Ctrl + Alt + V
 		
 //		Ctrl + Q
 
@@ -41,6 +42,7 @@ public class BasicEditing {
 //		Ctrl + Shift + W
 
 //		Alt + Enter
+//		FileInputStream fis = new FileInputStream("");
 		
 //		Ctrl + Alt + L
 //		    -> BadlyFormattedClass

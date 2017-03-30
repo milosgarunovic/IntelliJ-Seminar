@@ -2,14 +2,16 @@ package templates;
 
 import util.Person;
 
-public class BasicTemplates {
+import java.util.ArrayList;
+import java.util.List;
 
-//	Ctrl + Alt + J
+public class BasicTemplates {
 	
 	public static void main(String[] args) {
 		Person p = new Person("Milos");
 //	    .null
-
+		
+		List<String> stringList = new ArrayList<>();
 //		iter
 
 //	    itli
@@ -17,6 +19,7 @@ public class BasicTemplates {
 //		sout
 
 //		create your own live template
+		
 	}
 	
 }

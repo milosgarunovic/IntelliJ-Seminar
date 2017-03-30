@@ -9,4 +9,6 @@ public class Learning {
 //	Official Jetbrains site for IntelliJ
 //	https://www.jetbrains.com/help/idea/2016.3/meet-intellij-idea.html
 	
+//	Ctrl + Shift + A
+
 }

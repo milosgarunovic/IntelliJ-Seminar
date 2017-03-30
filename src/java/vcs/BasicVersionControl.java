@@ -6,6 +6,6 @@ public class BasicVersionControl {
 	
 //	Alt + Shift + C
 	
-//	Alt + ` (BackQuote)
+//	Alt + ` (Back Quote)
 	
 }

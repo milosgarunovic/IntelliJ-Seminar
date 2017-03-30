@@ -4,7 +4,7 @@ public class Person {
 
 //	Alt + F7
 
-//	Ctrl + Alt + F7
+//	Ctrl + Alt + F7 | Ctrl + B
 	
 	private final String name;
 	
@@ -15,4 +15,5 @@ public class Person {
 	public String getName() {
 		return name;
 	}
+	
 }
