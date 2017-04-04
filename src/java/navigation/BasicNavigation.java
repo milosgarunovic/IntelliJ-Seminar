@@ -1,6 +1,8 @@
 package navigation;
 
 public class BasicNavigation {
+	
+//	Double Shift
 
 //	Alt + 1
 //	    Esc

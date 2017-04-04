@@ -18,8 +18,8 @@ public class ToJava8 {
 	
 	public int replaceWithSum() {
 		int sum = 0;
-		for (String s : stringArray) {
-			sum += s.length();
+		for (String word : stringArray) {
+			sum += word.length();
 		}
 		return sum;
 	}
