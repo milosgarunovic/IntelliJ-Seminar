@@ -1,6 +1,6 @@
 package refactoring;
 
-import util.Person;
+import model.Person;
 
 public class BasicRefactoring {
 	
@@ -13,12 +13,10 @@ public class BasicRefactoring {
 //	Shift + F6
 //	Ctrl + Alt + V
 //  -> To Employee
-		Person p = new Person("Milos");
-		Person p2 = new Person("Milos");
-		Person p3 = new Person("Milos");
-		Person p4 = new Person("Milos");
-
-
+		Person p1 = new Person(1, "Milos");
+		Person p2 = new Person(2, "Milos");
+		Person p3 = new Person(3, "Milos");
+		Person p4 = new Person(4, "Milos");
 //	Ctrl + Alt + M
 		
 		

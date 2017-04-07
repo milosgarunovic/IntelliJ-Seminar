@@ -1,7 +1,5 @@
 package search;
 
-import util.Person;
-
 public class BasicSearch {
 	
 //	Ctrl + F
@@ -17,7 +15,7 @@ public class BasicSearch {
 //	Ctrl + Shift + R
 	
 //	Ctrl + Shift + Alt + N
-	
+		
 	//	Ctrl + Shift + I
 	static String s = "some text";
 	static void doSomething(){

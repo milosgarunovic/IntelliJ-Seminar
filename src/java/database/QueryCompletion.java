@@ -3,7 +3,7 @@ package database;
 public class QueryCompletion {
 	
 	public void doSomething() {
-		String selectQuery = "";
+		String selectQuery = "SELECT username FROM  user";
 	}
 	
 }

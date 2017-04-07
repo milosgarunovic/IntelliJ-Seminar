@@ -1,4 +1,4 @@
-package util;
+package model;
 
 public class Person {
 
@@ -16,4 +16,5 @@ public class Person {
 	public String getName() {
 		return name;
 	}
+	
 }

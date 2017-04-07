@@ -1,6 +1,6 @@
 package refactoring;
 
-import util.Person;
+import model.Person;
 
 import java.util.*;
 
@@ -64,7 +64,7 @@ public class ToJava8 {
 		for (Person person : people) {
 			names.add(person.getName());
 		}
-		names.sort(String::compareToIgnoreCase);
+		Collections.sort(names, String::compareToIgnoreCase);
 		return names;
 	}
 	

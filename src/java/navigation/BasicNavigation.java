@@ -4,6 +4,8 @@ public class BasicNavigation {
 	
 //	Double Shift
 
+//	Ctrl + N
+	
 //	Alt + 1
 //	    Esc
 	
@@ -14,8 +16,6 @@ public class BasicNavigation {
 //	Ctrl + E
 	
 //	Ctrl + Shift + Backspace
-	
-//	Alt + Arrow Up/Down
 	
 //  Ctrl + F12
 	

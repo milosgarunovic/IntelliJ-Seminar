@@ -1,13 +1,7 @@
 package editing;
 
-import util.Person;
-
 import java.util.ArrayList;
-import java.security.BasicPermission;
-import java.util.regex.Pattern;
-import java.time.format.FormatStyle;
 import java.util.List;
-import java.math.MathContext;
 
 
 public class BasicEditing {
@@ -15,7 +9,6 @@ public class BasicEditing {
 	public static void main(String[] args) {
 		
 		//		Ctrl + Space
-//		Person person = new Person();
 		//		Ctrl + Shift + Space
 		List<String> stringList = new ArrayList<>();
 		
@@ -23,11 +16,9 @@ public class BasicEditing {
 //		if stringList.isEmpty
 		
 //		Ctrl + P
-		
+
 //		Ctrl + Alt + P
-		
-//		Ctrl + Alt + V
-		
+
 //		Ctrl + Q
 		
 //		Ctrl + F1

@@ -1,1 +1,4 @@
 http://api.openweathermap.org/data/2.5/weather?q=Belgrade,rs&appid=1444baf31978cb76de0b24f05fbe88f5
+
+Test on
+    -> Tools -> Test RESTful Web Services
